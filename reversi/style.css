@@ -1,0 +1,27 @@
+body{
+    background-color:#dccc38;
+    text-align:center;
+}
+.player{
+    width:10%;
+}
+
+table{
+    margin:auto;
+}
+
+table{
+    border:1px solid;
+    background-color:black;
+}
+td{
+    border:1px solid;
+    background-color:green;
+    width:50px;
+    height:50px;;
+}
+.image{
+    border-radius:50%;
+    width:30px;
+    height:30px;
+}
